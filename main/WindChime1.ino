@@ -1,15 +1,13 @@
 /*
-  Arduino based LED Wind Chime project 1
+  Arduino (Pro Mini) based LED Wind Chime - project 1
   
   - wind chime weight swings and knocks the tubes
-  - 6 sensors pick up knocks and trigger 6 led's  (tested: a-piezo, b-tiltSwitch, c-copper strips, [d-piezo strip with weight, e-accelerometer chip (d/e more expensive)])
+  - 6 sensors pick up knocks and trigger 6 led's
   - led's quick on, then fade off
   - led's brightness determined by knock value
 
-  - written by Matt Standish (Thurstan/ksp)
-  - help from Dan Kernan (Techno)
-  
-  Released under Apache License v2.0 (see LICENCE file)
+  - written by Matt Standish (Thurstan/ksp) with help from Dan Kernan (Techno)
+  - Released under Apache License v2.0 (see LICENCE file)
 */
 
 boolean debug = true;
