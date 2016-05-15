@@ -5,6 +5,7 @@
   - Released under Apache License v2.0 (see LICENCE file)
 */
 
+
 int mainLoopDelay = 100;
 int sensorValue = 0;
 int sensorValueMap = 0;
