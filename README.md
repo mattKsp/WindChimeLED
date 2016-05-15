@@ -36,5 +36,5 @@ Arduino based LED reactive wind chime.
 
 
 ### Licence
-- written by Matt Standish (Thurstan/ksp) with help from Dan Kernan (Techno)
+- written by Matt Standish (mattKsp) with help from Dan Kernan (Techno)
 - Released under Apache License v2.0 (see LICENCE file)
