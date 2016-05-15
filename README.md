@@ -27,12 +27,12 @@ Arduino based LED reactive wind chime.
 
 ### Testing
 - Sensors tested
-  * piezo (a), 
-  * tilt-switch (b), 
-  * copper strips (connecting with center weight) (c)
+  * piezo, 
+  * tilt-switch, 
+  * copper strips (connecting with center weight)
 - Sensors NOT tested (more expensive)
-  * piezo strip with weight (d), 
-  * accelerometer chip (e)
+  * piezo strip with weight, 
+  * accelerometer chip
 
 
 ### Licence
