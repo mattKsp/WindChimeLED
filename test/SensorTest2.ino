@@ -5,6 +5,7 @@
   - Released under Apache License v2.0 (see LICENCE file)
 */
 
+
 int mainLoopDelay = 100;
 const int numberOfSensors = 2;
 const int numberOfSensorsA = A2;
