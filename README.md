@@ -10,7 +10,7 @@ Arduino based LED reactive wind chime.
 
 ### Equipment
 - Wind chime (6-tubes/bamboo)
-- Arduino
+- Arduino (Pro Mini)
 - Accelerometer
 - 6 sensors
 - 6 LED's
